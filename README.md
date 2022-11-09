@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCiriacoMoura&layout=compact)](https://github.com/PedroCiriacoMoura/github-readme-stats)
 ## Technologies I use in my daily life
 
-### Passionate about technology and innovation
+### Passionate about technology and innovation 
